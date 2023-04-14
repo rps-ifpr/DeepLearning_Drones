@@ -1,2 +1,1 @@
-# A_data-science
-Projetos DataScience - Portifolio - Em processo de Atualizações
+# deep learning algorithms applied to images collected by drones
