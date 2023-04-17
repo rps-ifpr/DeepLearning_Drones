@@ -1,3 +1,4 @@
+Agro-Drones (Agricultura de Precisão com Drones)
 # Aplicação de Algoritmos de Aprendizagem Profunda para Detecção de Doenças em Lavouras de Soja
 
 Nesta aplicação, utilizamos algoritmos de aprendizagem profunda para a detecção de doenças em lavouras de soja a partir de imagens coletadas por drones. A detecção precoce de doenças em lavouras é crucial para evitar perdas na produção, e a utilização de drones equipados com câmeras e sensores tem se mostrado uma forma eficiente de coletar imagens de grande escala e alta resolução das plantações.
